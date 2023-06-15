@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    padding: 20px 10px;
+    background-color: blue;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header h2 {
+    color: white;
+}
